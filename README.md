@@ -57,17 +57,6 @@ Meu foco é transformar ideias em código funcional. Gosto de atuar em todas as 
 <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
 
-📈 Minhas Estatísticas
-
-<!--
-IMPORTANTE:
-Substitua 'SEU-USERNAME-DO-GITHUB' pelo seu username real do GitHub em AMBOS os links abaixo
--->
-
-<div>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dpastorelligui%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dpastorelligui%26layout%3Dcompact%26langs_count%3D7%26theme%3Ddracula"/>
-</div>
 
 📬 Conecte-se Comigo
 
