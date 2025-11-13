@@ -41,17 +41,6 @@ Meu foco é transformar ideias em código funcional. Gosto de atuar em todas as 
 
 ---
 
-## 📊 Minhas Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/guipastorelli">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guipastorelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guipastorelli&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
----
-
 ## 📬 Conecte-se Comigo
 
 <div align="center">
